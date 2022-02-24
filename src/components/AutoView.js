@@ -14,3 +14,4 @@ const AutoView = () => {
     )
   
 }
+export default AutoView
