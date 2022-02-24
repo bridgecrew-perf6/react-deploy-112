@@ -11,7 +11,7 @@ const AutoView = () => {
             <h1>This is rendered only on MobileView</h1>
         </MobileView>
         </>
-    )
+    );
   
-}
+};
 export default AutoView
