@@ -1,17 +1,18 @@
 {
   "files": {
     "main.css": "/react-deploy/static/css/main.3de81619.css",
-    "main.js": "/react-deploy/static/js/main.2abd1289.js",
+    "main.js": "/react-deploy/static/js/main.adf68d6e.js",
     "static/js/787.d6cb1aba.chunk.js": "/react-deploy/static/js/787.d6cb1aba.chunk.js",
     "static/media/TestPhoto.png": "/react-deploy/static/media/TestPhoto.f8e07a6ba0c6f0c02cbd.png",
     "static/media/intro-skyidea.mp4": "/react-deploy/static/media/intro-skyidea.cf0671dca6e09f3e578c.mp4",
+    "static/media/skyideaLogo.PNG": "/react-deploy/static/media/skyideaLogo.4d379a5bc856fc229ed6.PNG",
     "index.html": "/react-deploy/index.html",
     "main.3de81619.css.map": "/react-deploy/static/css/main.3de81619.css.map",
-    "main.2abd1289.js.map": "/react-deploy/static/js/main.2abd1289.js.map",
+    "main.adf68d6e.js.map": "/react-deploy/static/js/main.adf68d6e.js.map",
     "787.d6cb1aba.chunk.js.map": "/react-deploy/static/js/787.d6cb1aba.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3de81619.css",
-    "static/js/main.2abd1289.js"
+    "static/js/main.adf68d6e.js"
   ]
 }
