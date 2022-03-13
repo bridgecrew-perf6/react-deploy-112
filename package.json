@@ -1,5 +1,5 @@
 {
-  "homepage": "http://violet-bl-cl.github.io/react-deploy",
+  "homepage": "http://violet-bl-cl.github.io/react-gh-pages",
   "name": "react-deploy",
   "version": "0.1.0",
   "private": true,
@@ -11,6 +11,7 @@
     "react-device-detect": "^2.1.2",
     "react-dom": "^17.0.2",
     "react-scripts": "5.0.0",
+    "styled-components": "^5.3.3",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
