@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/react-deploy/static/css/main.3de81619.css",
-    "main.js": "/react-deploy/static/js/main.95222ca9.js",
+    "main.js": "/react-deploy/static/js/main.2abd1289.js",
     "static/js/787.d6cb1aba.chunk.js": "/react-deploy/static/js/787.d6cb1aba.chunk.js",
     "static/media/TestPhoto.png": "/react-deploy/static/media/TestPhoto.f8e07a6ba0c6f0c02cbd.png",
     "static/media/intro-skyidea.mp4": "/react-deploy/static/media/intro-skyidea.cf0671dca6e09f3e578c.mp4",
     "index.html": "/react-deploy/index.html",
     "main.3de81619.css.map": "/react-deploy/static/css/main.3de81619.css.map",
-    "main.95222ca9.js.map": "/react-deploy/static/js/main.95222ca9.js.map",
+    "main.2abd1289.js.map": "/react-deploy/static/js/main.2abd1289.js.map",
     "787.d6cb1aba.chunk.js.map": "/react-deploy/static/js/787.d6cb1aba.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3de81619.css",
-    "static/js/main.95222ca9.js"
+    "static/js/main.2abd1289.js"
   ]
 }
